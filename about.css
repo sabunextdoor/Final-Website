@@ -24,3 +24,12 @@ body {
 .text-white {
     color: white;
 }
+
+.about {
+    background: #313552;
+    border-radius: 0.5rem;
+}
+
+.card {
+    border-bottom: 8px solid #f5ba09;
+}
